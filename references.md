@@ -1,1 +1,4 @@
-This is the conflict text.
+
+
+* octocat 1 😈
+
